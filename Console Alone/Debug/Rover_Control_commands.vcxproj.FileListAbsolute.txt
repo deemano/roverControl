@@ -1,0 +1,3 @@
+C:\Users\deeman\Desktop\OOSD Rover Finals\rover_control_console\RoverControls_v0.15_13FEB22.1500\Debug\RoverControlConsole.exe
+C:\Users\deeman\Desktop\OOSD Rover Finals\rover_control_console\RoverControls_v0.15_13FEB22.1500 - Stable\Debug\RoverControlConsole.exe
+C:\Users\deeman\Desktop\OOSD Rover Finals\ACI Finals\Console Alone\Debug\RoverControlConsole.exe
