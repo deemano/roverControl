@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Formula AllCode.cpp
+Formula AllCode.obj : error LNK2001: unresolved external symbol "char PortNumber" (?PortNumber@@3DA)
+C:\Users\deeman\Desktop\Buggy_project\buggy_rover\Release\Formula AllCode.exe : fatal error LNK1120: 1 unresolved externals
